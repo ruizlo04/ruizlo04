@@ -1,5 +1,7 @@
 # ¡Bienvenidos a mi perfil de GitHub!
 
+Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apasionado por la tecnología. Actualmente estoy estudiando en **Salesianos Triana**, tengo 20 años y soy de **Coria del Río**. Me encanta aprender nuevas herramientas y lenguajes, y siempre busco mejorar mis habilidades para crear soluciones innovadoras.
+
 ---
 
 ## 🛠 Tecnologías que uso
