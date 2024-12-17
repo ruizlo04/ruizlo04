@@ -5,11 +5,6 @@ Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apas
 <p align="center"> 
 	<!-- Contador de vistas del perfil -->
 	<img src="https://komarev.com/ghpvc/?username=ruizlo04&label=Profile%20views&color=0047AB&style=plastic" alt="ruizlo04" height="25px" width="160px"/> 
-	
-	<!-- Opcional: Imagen de actividad (puedes personalizar o eliminar) -->
-	<a href="https://commits.top/spain.html" target="_blank">
-		<img src="https://aktive.tk/spain/ruizlo04?color=red" alt="Most Active Users" height="25px" width="250px"/> 
-	</a>
 </p>
 
 
