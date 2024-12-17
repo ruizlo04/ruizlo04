@@ -64,6 +64,11 @@ Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apas
     </a>
 </p>
 
+<!-- TROFEOS GITHUB -->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruizlo04&theme=dracula&column=7" alt="ruizlo04" />
+  </a> 
+</p>
 
 
-</br>
