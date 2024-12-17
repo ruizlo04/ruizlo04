@@ -39,16 +39,9 @@ Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apas
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <!-- Estadísticas de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ruizlo04&show_icons=true&theme=dark&count_private=true" 
-       alt="Estadísticas de GitHub" width="400"/>
-
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizlo04&layout=compact&theme=dark&count_private=true" 
-       alt="Lenguajes más usados" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruizlo04&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizlo04&layout=compact&theme=dark" alt="Lenguajes más usados" width="400"/>
 </p>
-
-
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> 
