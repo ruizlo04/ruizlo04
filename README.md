@@ -43,12 +43,12 @@ Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizlo04&layout=compact&theme=dark" alt="Lenguajes más usados" width="400"/>
 </p>
 
-<!-- TROFEOS GITHUB -->
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruizlo04&theme=dracula&column=7" alt="ruizlo04" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ruizlo04&theme=dracula&column=7" alt="Trozos de trofeos" width="800"/>
   </a> 
 </p>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
