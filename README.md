@@ -38,16 +38,19 @@ Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apas
 
 ## 📊 Estadísticas de GitHub
 
+<!-- ESTADÍSTICAS GITHUB -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruizlo04&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizlo04&layout=compact&theme=dark" alt="Lenguajes más usados" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruizlo04&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" style="width: 400px; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizlo04&layout=compact&theme=dark" alt="Lenguajes más usados" style="width: 400px; height: 200px;"/>
 </p>
 
+<!-- TROFEOS GITHUB -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruizlo04&theme=dracula&column=7" alt="Trozos de trofeos" width="800"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ruizlo04&theme=dracula&column=7" alt="Trofeos de GitHub" style="width: 800px;"/>
   </a> 
 </p>
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
