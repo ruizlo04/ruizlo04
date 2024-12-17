@@ -18,7 +18,7 @@ Hola, soy **Carlos Ruiz**, un desarrollador de aplicaciones multiplataforma apas
 
 ## 🛠️ My Skills
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" width="400"/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
